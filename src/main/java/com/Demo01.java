@@ -10,6 +10,7 @@ package com;
 public class Demo01 {
     public static void main(String[] args) {
         System.out.println("hello!");
+        System.out.println("abcd");
         System.out.println("world!");
         System.out.println("two!");
     }
