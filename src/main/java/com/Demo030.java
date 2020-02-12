@@ -1,6 +1,6 @@
 package com;
 
-public class Demo003{
+public class Demo030{
 public static void main(String args[]){
 }
 }
