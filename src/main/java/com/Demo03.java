@@ -1,12 +1,9 @@
 package com;
 /**
  *@author lsl
- *@date  2020Ã„Ãª2Ã”Ã‚12ÃˆÃ•
+ *@date  2020Äê2ÔÂ12ÈÕ
  */
 
 public class Demo03 {
-public static void main(String[] args) {
-	System.out.println("003");
-        System.out.println("003");
-}
+
 }
