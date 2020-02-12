@@ -1,9 +1,10 @@
 package com;
 /**
  *@author lsl
- *@date  2020Äê2ÔÂ12ÈÕ
+ *@date  2020Ã„Ãª2Ã”Ã‚12ÃˆÃ•
  */
 
 public class Demo02 {
-
+  public static void main(String args[]){
+  }
 }
